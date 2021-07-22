@@ -1,3 +1,4 @@
+.env
 vendor
 web/core
 web/modules
